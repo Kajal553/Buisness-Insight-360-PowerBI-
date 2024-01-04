@@ -6,9 +6,9 @@ Designed and implemented a tailored Power BI dashboard to cater to the distinct 
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here]_(https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)_
+I worked on this project by following the Codebasics PowerBi Course, Link to the course is _[here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)_
 
-[Live Report Link]_(https://app.powerbi.com/view?r=eyJrIjoiOGY2YTI2Y2UtMjMzNy00M2Q1LWFmYmItN2IxMTcwZjU4MzFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+_[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiOGY2YTI2Y2UtMjMzNy00M2Q1LWFmYmItN2IxMTcwZjU4MzFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 ## Tech stacks
 
@@ -181,9 +181,7 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-
-
-you can find the full report file here : [Report]_([https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix](https://app.powerbi.com/view?r=eyJrIjoiOGY2YTI2Y2UtMjMzNy00M2Q1LWFmYmItN2IxMTcwZjU4MzFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+you can find the full report file here : _[Report](https://app.powerbi.com/view?r=eyJrIjoiOGY2YTI2Y2UtMjMzNy00M2Q1LWFmYmItN2IxMTcwZjU4MzFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 
 ## Project Outcome
